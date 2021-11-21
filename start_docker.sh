@@ -12,7 +12,7 @@ cd $dir
 pwd
 
 #cd $dir
-
+mkdir Temp
 pwd
 
 #sleep 2
